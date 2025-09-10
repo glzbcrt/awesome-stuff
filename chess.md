@@ -4,11 +4,13 @@
 
 - [Algebraic notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
 - [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system)
+- [PGN of Best Chess Games of All Time](https://www.chessgames.com/perl/chesscollection?cid=1001601)
 
 ## 📹 Videos
 
 - [Don't know how to play CHESS? This video is for you! - SleepRun S07E001](https://www.youtube.com/watch?v=XqPbouFQJBo)
 - [How To Use a Chess Engine: Part 1](https://www.youtube.com/watch?v=iVkBEiOOu0U)
+- [Hans Niemann's $100 Million* Suit Against Magnus Carlsen ft. GothamChess](https://www.youtube.com/watch?v=Gkd1Q0Ntt9s)
 
 ## 🎓 Chess Theory
 

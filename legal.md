@@ -1,3 +1,3 @@
 # ⚖️ Legal
 
-- [https://www.youtube.com/@LegalEagle](https://www.youtube.com/@LegalEagle)
+- [Legal Eagle](https://www.youtube.com/@LegalEagle)
