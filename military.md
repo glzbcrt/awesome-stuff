@@ -22,3 +22,8 @@
 - [Annie Jacobsen - Nuclear Armageddon in 2024](https://www.youtube.com/watch?v=_06wReNbk-g)
 - [Special Forces Rate 55 Special Forces Movie Scenes | How Real Is It? | Insider](https://www.youtube.com/watch?v=eyhQFNdMuqE)
 - [Submarines Are WAY Scarier Than You Think...Here's Why](https://www.youtube.com/watch?v=AecFpnj383A)
+- [Space WAR Has Already Begun](https://www.youtube.com/watch?v=JZqa2wQdORo)
+- [Why The Military Plays Games to Prepare for War](https://www.youtube.com/watch?v=VqFMX__AH9s)
+- [What’s ACTUALLY Happening in North Korea](https://www.youtube.com/watch?v=VISDGlpX0WI)
+- [We Tracked the Secret Police Microphones Hidden Everywhere | WIRED](https://www.youtube.com/watch?v=USNJ2eOme8E)
+- [US Submarine Commander Rates 14 Submarine Scenes In Movies | How Real Is It? | Insider](https://www.youtube.com/watch?v=Xv9aaTJVIxA)
