@@ -14,9 +14,6 @@
 - [Replicate - Run AI with an API](https://replicate.com/)
 - [Creatomate - API for Automated Video Generation](https://creatomate.com/)
 
-## Workflows
-
-- [n8n Automation: Insane Youtube Automation! (n8n tutorial)](https://www.youtube.com/watch?v=PHmL2zlXtZ0)
 
 ## YouTube Channels
 
