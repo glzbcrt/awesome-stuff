@@ -40,3 +40,5 @@
 ## Workflows
 
 - [n8n Automation: Insane Youtube Automation! (n8n tutorial)](https://www.youtube.com/watch?v=PHmL2zlXtZ0)
+- [How To Use FFmpeg n8n The PERFECT Combo for Automated Video Editing](https://www.youtube.com/watch?v=TJeYQzCWi_Y)
+- [13 FFmpeg n8n Commands You Need to Know for Automated Video Editing](https://www.youtube.com/watch?v=rfSD-pkK65A)

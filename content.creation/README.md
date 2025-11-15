@@ -1,10 +1,26 @@
 # Content Creation
 
+## YouTube Channels
+
+- [Productive Dude](https://www.youtube.com/@ProductiveDude)
+
 ## Videos
 
 - [OSINT At Home #16 – My top five tools in Google Earth Pro](https://www.youtube.com/watch?v=56glq2gCxMQ)
 
 ## Tools
+
+- [Storyblocks](https://www.storyblocks.com/)
+
+### Tables
+
+- [Airtable](https://airtable.com/)
+
+### Audio
+
+- [ElevenLabs](./elevenlabs.md)
+
+### Video
 
 - [Riverside](https://riverside.com/)
 - [Cloudinary - Image and Video Storage](https://cloudinary.com/)
@@ -13,8 +29,3 @@
 
 - [Replicate - Run AI with an API](https://replicate.com/)
 - [Creatomate - API for Automated Video Generation](https://creatomate.com/)
-
-
-## YouTube Channels
-
-- [Productive Dude](https://www.youtube.com/@ProductiveDude)
